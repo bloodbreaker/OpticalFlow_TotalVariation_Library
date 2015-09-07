@@ -1,6 +1,6 @@
 /*****************************************************************************/
 /*                                                                           */
-/*       Copyright 03/2012 by Dr. Andres Bruhn, Oliver Demetz and Yan Zhang  */
+/*         Copyright 03/2012 by Dr. Andres Bruhn, and Oliver Demetz          */
 /*     Faculty of Mathematics and Computer Science, Saarland University,     */
 /*                           Saarbruecken, Germany.                          */
 /*                                                                           */
